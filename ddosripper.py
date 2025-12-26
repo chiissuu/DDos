@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-# 1· Importaciones.
+# 1 · Importaciones.
 import sys
 import socket
 import threading
@@ -13,8 +13,10 @@ from optparse import OptionParser
 # 2 · Banner.
 print('''
 ☠️☠️☠️☠️☠️☠ Ddos ☠️☠️☠️☠️☠️☠
+
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
     Attack Script by Chiissuu
+    
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ☠️☠️☠️☠️☠️☠☠️☠️☠️☠️☠️☠☠️☠️☠
 ''')
